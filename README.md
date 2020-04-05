@@ -1,2 +1,2 @@
-# Homework-of-Computational-Linguistic
-all the homework of computational linguistics in 2019
+# Homework-of-Data-Structure-and-Algorithm
+all the homework of Data-Structure & Algorithm in 2020 Spring
